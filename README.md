@@ -51,4 +51,4 @@ src/
 
 ## Licence
 
-Projet privé.
+projets Public (Opensource)
