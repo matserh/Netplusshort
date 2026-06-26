@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Netplus</string>
+    <string name="title_activity_main">Netplus</string>
+    <string name="package_name">store.anyclaw.betanetplus</string>
+    <string name="custom_url_scheme">store.anyclaw.betanetplus</string>
+</resources>
